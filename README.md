@@ -1,5 +1,5 @@
 # Python--2023-Number-plate-Generator
-Introducing a Python-powered South African number plate generator. It swiftly creates unique plates—numbers, letters, numbers, province abbreviation. Future plans include a registration system linking plates to vehicles and drivers, enhancing security. Example: 9 ZH 76 KZN.
+ A Python-powered South African number plate generator. It swiftly creates unique plates—numbers, letters, numbers, province abbreviation. Future plans include a registration system linking plates to vehicles and drivers, enhancing security. Example: 9 ZH 76 KZN.
 
 
 Introducing a groundbreaking number plate generator tailored for South Africa's forthcoming plate format. This Python-powered tool creates unique plates with a distinct arrangement: numbers, letters, numbers, followed by a province abbreviation. Users can effortlessly specify their desired province to receive a customized number plate instantly.
